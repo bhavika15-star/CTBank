@@ -1,0 +1,9 @@
+.botimage{
+  /* display: flex; */
+  width: 6rem;
+  height: 6rem;
+  cursor:pointer;
+  position: fixed;
+  top: 85%;
+  right:10px;
+}
